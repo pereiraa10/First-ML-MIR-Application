@@ -357,7 +357,7 @@ Added guitar strings specifically steel strings, very high pitched with some pit
 
 ## Original Song Collide Lyrics
 
-*   Verse 1:
+    Verse 1:
     Csus C
     Once upon a time 
     I became too sentimental 
