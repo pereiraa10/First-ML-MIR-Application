@@ -5,7 +5,9 @@ This repository contains the written documentation of my journey to producing my
 
 # A Journey through Suno 
 
-## Objective: Explore features of suno music.AI platform with the objective of creating musical accompaniment for an original song. 
+## Objective: 
+
+Explore features of suno music.AI platform with the objective of creating musical accompaniment for an original song. 
 
 ## Intro / Backstory:
 
