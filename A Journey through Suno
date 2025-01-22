@@ -1,0 +1,12 @@
+A Journey through Suno 
+
+<b>Objective:</b> Explore features of suno music.AI platform with the objective of creating musical accompaniment for an original song. 
+
+<b>Intro / Backstory:</b>
+
+I had been tasked with composing a piano arrangement for an original song. I was provided a recording of voice accompanied by simple triads played on a piano, and a chart with the lyrics and chords. 
+
+I spent some time playing through ideas on the piano and recording them, but never created a flawless product that was usable for a demo or recording purposes. Being familiar with digital audio workspaces like garage band, I decided to invest in a MIDI controllers to play and capture my ideas, but also be able to edit and reshuffle portions in order to create a more refined output. Battling an overwhelming amount of buttons and a sense of perfectionism, I struggled to efficiently piece together a usable recording of the accompaniment I could dream of. 
+
+I am aware there are new generative music tools being published to the public and wanted to test out if these tools could help me in my quest to quickly produce the desired output, which is a simple yet mastery level accompaniment track. I downloaded the Suno and started to feed it 60 second audio samples from the initial recording I received. As part of the prompt, I provided a few words for the Gen AI model to understand what kind of output I was looking for. As I iterated through this model and it’s output, I found some interesting findings on how this model functions, and how susceptible to influence in which factors it’s open to changing. 
+
