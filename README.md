@@ -342,6 +342,8 @@ This iteration is much slower paced, similar to that of the original piece and h
 ####  Written Prompt: Intense emotional
 ####  Perceived Style: emotive, emotional, piano-driven, ballad
 
+*No lyrics generated as an instrumental piece.*
+
 Initially very piano driven but more of an accompaniment piece than having melody featured on another instrument. This sounds like something I could model the piano arrangement off of. The harmonic structure also closely followed the chorus of the original song, but only the first part which cycles from (C Am G). Then it slows to a bridge portion without the bass in the piano, but achieves a very nice rubato sound which mimics the lack of tempo the original piece has a certain times. At the end the model also added a synthetic sound of someone stepping away from the piano as if to grab their phone and turn off a recording device (a very nice human touch). 
 	
 
@@ -351,6 +353,7 @@ Initially very piano driven but more of an accompaniment piece than having melod
 ####  Written Prompt: Intense emotional
 ####  Perceived Style: emotive, emotional, piano-driven, ballad
 
+*No lyrics generated as an instrumental piece.*
 
 Added guitar strings specifically steel strings, very high pitched with some pitch bending. This followed the harmonic structure of the original song much more closely, using the same minor 4 structure. There was a second section which melodically followed quite similar to the original audio with a clarinet / reed instrument as well and added a nice jazzy interpretation of the melody. 
 
@@ -425,8 +428,7 @@ Added guitar strings specifically steel strings, very high pitched with some pit
     F Fm C 
     It makes sense 
     That it’s you my friend  
-    We’ll collide when we’re young again*
-    
+    We’ll collide when we’re young again 
     
     
     
