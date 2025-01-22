@@ -3,11 +3,11 @@ Python scripts I wrote to test out Music Information Retrieval functions within 
 
 This repository contains the written documentation of my journey to producing my first research paper on music information retrieval using machine learning techniques. Please note, the songs referenced in this project are original compositions and cannot be reproduced without the express written consent of the original composer.
 
-#A Journey through Suno 
+# A Journey through Suno 
 
-##Objective: Explore features of suno music.AI platform with the objective of creating musical accompaniment for an original song. 
+## Objective: Explore features of suno music.AI platform with the objective of creating musical accompaniment for an original song. 
 
-##Intro / Backstory:
+## Intro / Backstory:
 
 I had been tasked with composing a piano arrangement for an original song. I was provided a recording of voice accompanied by simple triads played on a piano, and a chart with the lyrics and chords. 
 
@@ -15,9 +15,9 @@ I spent some time playing through ideas on the piano and recording them, but nev
 
 I am aware there are new generative music tools being published to the public and wanted to test out if these tools could help me in my quest to quickly produce the desired output, which is a simple yet mastery level accompaniment track. I downloaded the Suno and started to feed it 60 second audio samples from the original recording of the song that I received from the artist. As part of the prompt, I provided a few words for the Gen AI model to understand what kind of output I was looking for. As I iterated through this model and it’s output, I was curious to understand how this model functions, and how much of the original audio was retained versus what portions were altered to align with what the model believed to be the desired output. 
 
-##Here's a detailed description of each sound output iteration I generated with Suno.AI:
+## Here's a detailed description of each sound output iteration I generated with Suno.AI:
 
-###Output 1 (Broken Reflections):
+### Output 1 (Broken Reflections):
 
 ####  Audio Input: Collide first 60 seconds 
 ####  Written Prompt: dramatic theatrical piano ballad accompaniment with somber strings
@@ -58,7 +58,7 @@ These lyrics reference key words provided in my initial prompt. Some strong exam
 
 From a musical perspective, the instrumentation remained very true to the original audio sample. Certain parts of the original audio in the first 60 seconds were modified to be more normalized. In places where dramatic pauses were taken, the model struggled to recreate the song in perfect form but for the most part the song was untouched. In the last 120 seconds of the song, the instrumentation was very piano heavy which is what I desired. It added some small flourishing accents in a very uniform manner, such as walking up and down scales in eight notes. Some orchestral instruments added to the song creating overall swelling sound of more dramatic moments, but did not feature heavily which was nice. The piano tone eventually modulated into a more flat tone, similar to that of the instrument used in reflections from Mulan (which has dramatic sentiment to its lyrics as well). The addition of these instruments also helped to understand the song form being emulated here. By the 3rd verse, all the additional instruments dropped out and it went back to purely a piano sound and goes to show how much was added. 
 
-###Output 2: In the Key of Moonlight
+### Output 2: In the Key of Moonlight
 
 ####  Audio Input: Collide first 60 seconds 
 ####  Written Prompt: piano accompaniment with somber orchestra
@@ -112,7 +112,7 @@ From a musical perspective, the instrumentation remained very true to the origin
 ####  Perceived Style: Orchestral, Ballad, Somber. Melancholic
 
 ####  Generated Lyrics:
-    *(Verse 1)
+    * (Verse 1)
     The moonlight falls on empty streets 
     A ghostly whisper no one greets 
     Shadows dance where lovers meet 
@@ -146,7 +146,7 @@ From a musical perspective, the instrumentation remained very true to the origin
     In the silence I reside 
     A world where only tears abide 
     Memories in a heavy tide 
-    Waves that come and sweep inside*
+    Waves that come and sweep inside *
 
 Interestingly in this song, the vocalist changed to a more masculine voice. There was also heavy use of the major 3rd chord, similar to that of Creep by radio head and some minor 4 chords as well (which was commonly used in the original audio sample). A rapid 32nd note snare drum adds to the build of the bridge right before crescendo-ing into a chorus. In the verses, it sounds like a harp sound is providing the base line, like a warm piano sound oscillating back and forth and occasionally arpeggiating. The chorus of male voices adds in the chorus, and emphasis words like “waves that come in and sweep inside”. Verse 3 is in similar melody to the first 2 verses but modulates upwards at the end leading to the bridge. 
 
