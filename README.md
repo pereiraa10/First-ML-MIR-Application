@@ -99,14 +99,10 @@ From a musical perspective, the instrumentation remained very true to the origin
     Melodies that mesmerize 
     In their warmth our sorrow flies 
     Wait to find …
+    
+The modeled struggled to understand the original song more this time evidenced through more modifications of the lyrics such as the lyric “all our past lives together in this one” was recreated as “ all our papst lives together and this wain”. The lyric “orbiting” was better understood this time but sounded like “or-budding”. The generated portion of the song had a very different vocal tonality to it verses the first song which sounded much more like the original song. This song featured some added guitar strumming which gave a more upbeat style and some added background vocals. Overall, the lyrics were a bit more hopeful in this creation while still making mention of more somber topics, but seemed to have a thesis that music is the cure for our sorrows. 
 
-####  Analysis:
-
-	The modeled struggled to understand the original song more this time evidenced through more modifications of the lyrics such as the lyric “all our past lives together in this one” was recreated as “ all our papst lives together and this wain”. The lyric “orbiting” was better understood this time but sounded like “or-budding”. The generated portion of the song had a very different vocal tonality to it verses the first song which sounded much more like the original song. This song featured some added guitar strumming which gave a more upbeat style and some added background vocals. Overall, the lyrics were a bit more hopeful in this creation while still making mention of more somber topics, but seemed to have a thesis that music is the cure for our sorrows. 
-
-	Instrumentally, there are more additions in this iteration including some more perucussion instruments like a tambourine sound in the chorus section where the song builds. Immediately, the piano sound has a more plucky sound and has a guitar added in on verse 2 chugging on a descently fast tempo. In the chorus a chorus of voices joins the lead vocalist to build body to the song. The song keeps the same 4 chords most of the time but does lean towards the minor on the 3rd time through in a verse. The second build to a chorus in the 3rd verse is has a strong increase in the pitch of the melody which was modeled in the original audio sample during the chorus but wasn’t as prominent in the first audio output. 
-
-
+Instrumentally, there are more additions in this iteration including some more perucussion instruments like a tambourine sound in the chorus section where the song builds. Immediately, the piano sound has a more plucky sound and has a guitar added in on verse 2 chugging on a descently fast tempo. In the chorus a chorus of voices joins the lead vocalist to build body to the song. The song keeps the same 4 chords most of the time but does lean towards the minor on the 3rd time through in a verse. The second build to a chorus in the 3rd verse is has a strong increase in the pitch of the melody which was modeled in the original audio sample during the chorus but wasn’t as prominent in the first audio output. 
 
 ### Output 3: Somber Nights
 
@@ -316,7 +312,7 @@ For fun I added some very different written prompts to see their impact:
     In this dark we come alive
 
 
-	“Withdrawn” was modulated down and surrender wasn’t read correctly, it came through as “surrend-ed”. This version kept the piano similar to the original, but added a minor chord, before “ far away stars dance”. The voice remained mostly a solo with some doubling. And instrumentals remained just a piano. The chords were definitely changed and had more minor tone, there was a slight addition of some strummed like instrument as the sound quality decayed. Interestingly, “freeze” was misspelled as “frieze”, I wonder if the model meant for a different word to be used. 
+“Withdrawn” was modulated down and surrender wasn’t read correctly, it came through as “surrend-ed”. This version kept the piano similar to the original, but added a minor chord, before “ far away stars dance”. The voice remained mostly a solo with some doubling. And instrumentals remained just a piano. The chords were definitely changed and had more minor tone, there was a slight addition of some strummed like instrument as the sound quality decayed. Interestingly, “freeze” was misspelled as “frieze”, I wonder if the model meant for a different word to be used. 
 The second model output, had more percussion added, some snare and shakers, making it feel more upbeat. It also added a guitar sound as it entered into the chorus, as well as some doubling of voices. The bridge had the strongest build. The syncopated feeling of the base line was similar to the original pattern of the audio file, but was more regulated hence giving a more upbeat and positive tone. 
 
 ### Output 7a: Stormy Hearts (Instrumental)
@@ -327,7 +323,7 @@ The second model output, had more percussion added, some snare and shakers, maki
 
 *No lyrics were generated as an instrumental piece.*
 
-	Initial reaction: This piece takes on a much more minor nature of the song, adds intensity with drums beat and oscillating arpeggiated piano line as well as some synth sounds that create waves of tension. It first starts with a simple piano part, and keeps that piano harmonic structure throughout the song, not changing so much throughout. There isn’t much of a melody line, the piano arpeggiation takes center stage. 
+Initial reaction: This piece takes on a much more minor nature of the song, adds intensity with drums beat and oscillating arpeggiated piano line as well as some synth sounds that create waves of tension. It first starts with a simple piano part, and keeps that piano harmonic structure throughout the song, not changing so much throughout. There isn’t much of a melody line, the piano arpeggiation takes center stage. 
 
 
 ### Output 7b: Stormy Hearts (Instrumental)
@@ -338,7 +334,7 @@ The second model output, had more percussion added, some snare and shakers, maki
 
 *No lyrics generated as an instrumental piece.*
 
-	This iteration is much slower paced, similar to that of the original piece and has a melody line carried by the stringed instruments which sound similar to the original piece. There is the addition of other stringed instruments as well interestingly enough given the prompt gave no indication of orchestral or stringed instruments. This version adds drums as well only halfway through, a simple upbeat 4 count. The melody switches from stringed orchestral instrument to a guitar melody as the drums build in the chorus. 
+This iteration is much slower paced, similar to that of the original piece and has a melody line carried by the stringed instruments which sound similar to the original piece. There is the addition of other stringed instruments as well interestingly enough given the prompt gave no indication of orchestral or stringed instruments. This version adds drums as well only halfway through, a simple upbeat 4 count. The melody switches from stringed orchestral instrument to a guitar melody as the drums build in the chorus. 
 
 ### Output 8a: Heartquake (Instrumental)
 
@@ -346,7 +342,7 @@ The second model output, had more percussion added, some snare and shakers, maki
 ####  Written Prompt: Intense emotional
 ####  Perceived Style: emotive, emotional, piano-driven, ballad
 
-	Initially very piano driven but more of an accompaniment piece than having melody featured on another instrument. This sounds like something I could model the piano arrangement off of. The harmonic structure also closely followed the chorus of the original song, but only the first part which cycles from (C Am G). Then it slows to a bridge portion without the bass in the piano, but achieves a very nice rubato sound which mimics the lack of tempo the original piece has a certain times. At the end the model also added a synthetic sound of someone stepping away from the piano as if to grab their phone and turn off a recording device (a very nice human touch). 
+Initially very piano driven but more of an accompaniment piece than having melody featured on another instrument. This sounds like something I could model the piano arrangement off of. The harmonic structure also closely followed the chorus of the original song, but only the first part which cycles from (C Am G). Then it slows to a bridge portion without the bass in the piano, but achieves a very nice rubato sound which mimics the lack of tempo the original piece has a certain times. At the end the model also added a synthetic sound of someone stepping away from the piano as if to grab their phone and turn off a recording device (a very nice human touch). 
 	
 
 ### Output 8b: Heartquake (Instrumental) 
@@ -356,7 +352,7 @@ The second model output, had more percussion added, some snare and shakers, maki
 ####  Perceived Style: emotive, emotional, piano-driven, ballad
 
 
-	Added guitar strings specifically steel strings, very high pitched with some pitch bending. This followed the harmonic structure of the original song much more closely, using the same minor 4 structure. There was a second section which melodically followed quite similar to the original audio with a clarinet / reed instrument as well and added a nice jazzy interpretation of the melody. 
+Added guitar strings specifically steel strings, very high pitched with some pitch bending. This followed the harmonic structure of the original song much more closely, using the same minor 4 structure. There was a second section which melodically followed quite similar to the original audio with a clarinet / reed instrument as well and added a nice jazzy interpretation of the melody. 
 
 
 ## Original Song Collide Lyrics
